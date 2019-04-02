@@ -1,4 +1,30 @@
-# 小程功能
+# 生产软件
+
+```sequence
+title: Title
+
+participant A
+participant B
+
+A->B: how are you?
+B-->>A: fine.
+
+```
+
+
+## 生产数据上传
+
+# 小程序功能
+
+集中器电表模式
+![image text](https://github.com/59471032/bbiiot/raw/master/images/xiaochengxu.png)
+
+
+电表模式
+- [ ] 待续
+
+
+
 ## 获取档案设置报文
 
 ---
