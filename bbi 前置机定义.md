@@ -1,5 +1,3 @@
-
-
 # 架构
 ![Alt text](./images/bbi-iot.png)
 
