@@ -1,3 +1,9 @@
+
+
+# 架构
+![Alt text](./images/bbi-iot.png)
+
+
 # 生产软件
 
 ![Alt text](./out/uml/表计注册/表计注册.png)
